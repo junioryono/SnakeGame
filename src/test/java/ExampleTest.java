@@ -3,15 +3,15 @@ package test.java;
 import org.junit.Test;
 import static org.junit.Assert.assertTrue;
  
-class ExampleTest {
+public class ExampleTest {
  
     @Test
-    void exampleTest() {
+    public void exampleTest() {
     	assertTrue(true);
     }
     
     @Test
-    void exampleTest2() {
+    public void exampleTest2() {
     	assertTrue(false);
     }
 }
