@@ -10,8 +10,8 @@ public class ExampleTest {
     	assertTrue(true);
     }
     
-    @Test
-    public void exampleTest2() {
-    	assertTrue(false);
-    }
+//     @Test
+//     public void exampleTest2() {
+//     	assertTrue(false);
+//     }
 }
