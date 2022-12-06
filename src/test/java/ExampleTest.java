@@ -1,8 +1,6 @@
 package test;
 
-import static org.junit.Assert.assertTrue;
-
-import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.Assert.assertTrue;
  
 class ExampleTest {
  
