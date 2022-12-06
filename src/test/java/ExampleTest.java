@@ -1,6 +1,7 @@
-package test;
+package test.java;
 
-import static org.junit.jupiter.Assert.assertTrue;
+import org.junit.Test;
+import static org.junit.Assert.assertTrue;
  
 class ExampleTest {
  
